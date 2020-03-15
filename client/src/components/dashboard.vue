@@ -16,7 +16,7 @@
           <b-icon-pie-chart-fill></b-icon-pie-chart-fill>
           <br />Pie
         </b-button>
-        <b-button block variant="primary" style="width: 1000px">
+        <b-button block variant="primary" style="width: 1000px" href="/bar">
           <i class="fa fa-bar-chart"></i>
           <br />Bar
         </b-button>

@@ -6,10 +6,7 @@
 
 <script>
 export default {
-  name: "navbar",
-  components: {
-    Nav: navbar
-  }
+  name: "navbar"
 };
 </script>
 

@@ -13,7 +13,7 @@
 import dashboard from "@/components/dashboard.vue";
 
 export default {
-  name: "Home",
+  name: "index",
   components: {
     dash: dashboard
   }
